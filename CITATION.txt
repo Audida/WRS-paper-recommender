@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+title: >-
+  Metoda samonadziranog učenja za hladni start
+  sustava preporuke znanstvenih članaka temeljena na
+  slučajnim šetnjama
+type: izvorni kod
+authors:
+  - given-names: Dora
+    family-names: Pavelić
+url: "https://github.com/Audida/WRS-paper-recommender"
+date-released: 2022-06-27
